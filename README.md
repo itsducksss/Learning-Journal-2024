@@ -1,3 +1,5 @@
+
+
 # Learning-Journal-2024
 This documents my learning in Programming
 
@@ -26,4 +28,14 @@ Watched video online on how to make clickable links embeded into the word for th
 
 2024-11-19
 
-Learned how to use Github desktop and how to upload Unity Projects from computers. Learned the autonomy of a unity project and how the git ignore works and the basic files needed to upload a Unity Project with no problem re-opening it back up. Looked at videos on enemy ai and how it works. This is as the prototype game that I want to create will have interactable objects that might create events/actions to occur
+Learned how to use Github desktop and how to upload Unity Projects from computers. Learned the autonomy of a unity project and how the git ignore works and the basic files needed to upload a Unity Project with no problem re-opening it back up. Looked at videos on enemy ai and how it works. This is as the prototype game that I want to create will have interactable objects that might create events/actions to occur.
+
+2024-11-26
+
+Researched how to use AI pathfinding in Unity. Had trouble following tutporial realised that it was because Unity has 2 different navigation windows, and the one shown in the video cannot be accessed in the same way, as Unity updated, meaning that it can only be accessed in the Windows tab in the AI tab. This update seemed to have occurred in the 2021 versions onwards based on a Unity thread posting about this same issue. The difference in the AI Navigation Windows can be seen bellow.
+![image](https://github.com/user-attachments/assets/825eb714-f4ae-44f2-a89b-ef3a3c538c95)
+This meant that I was unable to bake the NavMeshAgent or the floor (on which the agent has to walk onto and navigate) for it to work which led to an error to pop-up that the NavMeshAgent could not be called onto which was harder to solve.
+Got another error regarding the OnDawGizmos and Gizmos that was used in the Debug part of the script. After reseaching it may have also been done from an update from 2021 Unity ver onwards of it not being visble. The error that showed up is non invocable member cannot be used as method which I could not fix. I realised after asking for help that there were brackets in my script that were not in the tutorial due to the automatic "autocorrect" in visual studio which added a lot of other parts which were in the original script.
+Got another error. Realised that this was beacuse I wrote Drawline and not DrawLine with a capital "L" which cause my problems to occur when doing the script. When I fixed this problem I got more problems when Unity loaded up I got 282 problems that said the same thing, which multipied whenever i clicked in Unity. Besides the constant notifications, the scene could still be played and would show the path of the AI its turns and how it changed depending on where the player was.
+I realised that the objects in the csne could be changed so that they could be jumped, walked on etc.. as well as avoided by the AI. The main issue I had was with the character's gravity which even when change (including mass and drag), still fell too slow than what it should have.
+
