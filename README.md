@@ -39,3 +39,11 @@ Got another error regarding the OnDawGizmos and Gizmos that was used in the Debu
 Got another error. Realised that this was beacuse I wrote Drawline and not DrawLine with a capital "L" which cause my problems to occur when doing the script. When I fixed this problem I got more problems when Unity loaded up I got 282 problems that said the same thing, which multipied whenever i clicked in Unity. Besides the constant notifications, the scene could still be played and would show the path of the AI its turns and how it changed depending on where the player was.
 I realised that the objects in the csne could be changed so that they could be jumped, walked on etc.. as well as avoided by the AI. The main issue I had was with the character's gravity which even when change (including mass and drag), still fell too slow than what it should have. Had issues with some of the jumpable and walkable objects with the pathfinding. will fix next week.
 
+2024-12-03
+
+I realized that the multitude of errors that pop-up are just as the the scene is not playing. This means that the errors will not pop up and occur, if the scene is playing no errors will occur, and the previous errors go away, but when you stop playing, the errors pop back up. The AIs also had trouble going up diagonal slopes, as even if they baked they did not work, but if they were not baked also had problems with it, as they just went through the slopes.
+
+https://github.com/user-attachments/assets/aa072ba5-3e54-4fb6-9c5c-3ba8d008c403
+
+the problems with the playable character's gravity/mass can also be seen here.
+
