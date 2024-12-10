@@ -47,7 +47,8 @@ https://github.com/user-attachments/assets/aa072ba5-3e54-4fb6-9c5c-3ba8d008c403
 
 The problems with the playable character's gravity/mass (as well as other problems that I had last week) can also be seen here.
 
-2024-11-10
+2024-12-10
 
-Finishing tutorial. Finished the tutorial, however the page reloaded and lost 2 hours and 17 minutes worth of work currently 16:17. realised that I should save more often. On the good side I understood my code and tutorial more.
+Finishing tutorial. Finished the tutorial, however the page reloaded and lost 2 hours and 17 minutes worth of work currently 16:17. realised that I should save more often. On the good side I understood my code and tutorial more. Finished most of the tutorial by 18:01 I will add in more videos on how to switch the Gizmos on and off. I learnt that the solution to prvent these things from occuring is to save the work incrementally as you progress. Next week I aim to do my last tutorial which would be based of either killing the AI, being able to hide from the AI in certain areas which will then cause the AI to do a "normal routine" and or creating gameplay in which if you find a key the door might open if possible but I am not sure if that is feasible.
+
 
