@@ -51,4 +51,12 @@ The problems with the playable character's gravity/mass (as well as other proble
 
 Finishing tutorial. Finished the tutorial, however the page reloaded and lost 2 hours and 17 minutes worth of work currently 16:17. realised that I should save more often. On the good side I understood my code and tutorial more. Finished most of the tutorial by 18:01 I will add in more videos on how to switch the Gizmos on and off. I learnt that the solution to prvent these things from occuring is to save the work incrementally as you progress. Next week I aim to do my last tutorial which would be based of either killing the AI, being able to hide from the AI in certain areas which will then cause the AI to do a "normal routine" and or creating gameplay in which if you find a key the door might open if possible but I am not sure if that is feasible.
 
+2024-17-10
+
+computer crashed lost my work form earlier (4 hours) should save more often. Tried different tutorial on a key and door system for my game but one didn't work due tpo the set up and for it being more applicable in a 2d game rather than 3d game, while the other one was outdated which means that I could not use the tutorial. Started working on a rtimer when my stuff closed. Timer works. Had an issue woth the script not working due to a 
+
+int string was not in the correct format
+
+error which was beacuase I used the wrong puncuation in the script. The other error I had which was fixed can be seen on the video above . I talked to Paul who said my script looked right, but after deleting a section of the script and copying it back in the issue was fixed not sure why.
+
 
