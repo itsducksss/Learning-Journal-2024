@@ -75,7 +75,7 @@ I talked to Paul who said my script looked right, but after deleting a section o
 https://github.com/user-attachments/assets/15471615-12e9-4b34-8232-0bd2ba1f00bd
 
 
-Realised that I had an issue once the Timer goes past 0:00 displayed in the vidoe above of what could occur in the nity scene if the scene does not stop playing after 0:00.
+Realised that I had an issue once the Timer goes past 0:00 displayed in the video above of what could occur in the nity scene if the scene does not stop playing after 0:00.
 
 ![image](https://github.com/user-attachments/assets/a73df10c-eb50-4a8b-b2c4-d66a629a5f9d)![image](https://github.com/user-attachments/assets/678b4f72-338a-4bc2-a14f-7188ccace275)
 
@@ -85,5 +85,7 @@ these are the changes I made onto the script.
 https://github.com/user-attachments/assets/e07a5af7-efe7-4fbc-ace6-8ea30d0a9c2f
 
 This just shows that the Time will just stay at 0 instead of counting down further.
+
+made some adjustmeants onto the script that just means that when it reaches 0, that the scene will reset using Unity's Scene Management.
 
 
