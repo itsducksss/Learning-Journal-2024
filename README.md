@@ -57,6 +57,24 @@ computer crashed lost my work form earlier (4 hours) should save more often. Tri
 
 int string was not in the correct format
 
-error which was beacuase I used the wrong puncuation in the script. The other error I had which was fixed can be seen on the video above . I talked to Paul who said my script looked right, but after deleting a section of the script and copying it back in the issue was fixed not sure why.
+error which was beacuase I used the wrong puncuation in the script.
+
+
+https://github.com/user-attachments/assets/e9de04c8-a4e1-4eca-9012-222183d36ced
+
+
+The other error I had which was fixed can be seen on the video above .
+
+
+https://github.com/user-attachments/assets/623d5d84-794e-48aa-bc32-d292f1aae6e0
+
+
+I talked to Paul who said my script looked right, but after deleting a section of the script and copying it back in the issue was fixed not sure why seen in the video above.
+
+
+https://github.com/user-attachments/assets/15471615-12e9-4b34-8232-0bd2ba1f00bd
+
+
+Realised that I had an issue once the Timer goes past 0:00 displayed in the vidoe above of what could occur in the nity scene if the scene does not stop playing after 0:00.
 
 
