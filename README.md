@@ -86,6 +86,6 @@ https://github.com/user-attachments/assets/e07a5af7-efe7-4fbc-ace6-8ea30d0a9c2f
 
 This just shows that the Time will just stay at 0 instead of counting down further.
 
-made some adjustmeants onto the script that just means that when it reaches 0, that the scene will reset using Unity's Scene Management.
+Made some adjustments onto the script that just means that when it reaches 0, that the scene will reset using Unity's Scene Management system which was not in the original script. Using the Unity Management System just means that i dont have to create another script and or add more processes that could make the process take longer than needed.
 
 
