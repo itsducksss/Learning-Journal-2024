@@ -92,5 +92,5 @@ Made some adjustments onto the script that just means that when it reaches 0, th
 Made some changes onto my Timer Restart Scene tutorial. 
 
 2025-01-07
-Finished the Tutorial for the Timer which was my last tutorial, and made some changes onto my Basic Character Interaction tutorial.
+Finished the Tutorial for the Timer which was my last tutorial, and made some changes onto my Basic Character Interaction tutorial. Realised that tutorials could have more detail so added more commitments onto all of them.
 
