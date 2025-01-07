@@ -88,4 +88,9 @@ This just shows that the Time will just stay at 0 instead of counting down furth
 
 Made some adjustments onto the script that just means that when it reaches 0, that the scene will reset using Unity's Scene Management system which was not in the original script. Using the Unity Management System just means that i dont have to create another script and or add more processes that could make the process take longer than needed.
 
+2024-12-29
+Made some changes onto my Timer Restart Scene tutorial. 
+
+2025-01-07
+Finished the Tutorial for the Timer which was my last tutorial, and made some changes onto my Basic Character Interaction tutorial.
 
