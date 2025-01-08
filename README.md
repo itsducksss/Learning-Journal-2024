@@ -90,9 +90,11 @@ This just shows that the Time will just stay at 0 instead of counting down furth
 Made some adjustments onto the script that just means that when it reaches 0, that the scene will reset using Unity's Scene Management system which was not in the original script. Using the Unity Management System just means that i dont have to create another script and or add more processes that could make the process take longer than needed.
 
 2024-12-29
+
 Made some changes onto my Timer Restart Scene tutorial. 
 
 2025-01-07
+
 Finished the Tutorial for the Timer which was my last tutorial, and made some changes onto my Basic Character Interaction tutorial. Realised that tutorials could have more detail so added more commitments onto all of them.
 
 Forgot how to upload my game onto GitHub realised that the folder I selected was within another folder which was causing the issue, this happened when I moved my game from one PC to another, as it created anothe folder withthe same name which is why I was originally confused, selecting the correct folder fixed this issue. I also learnt how to export a Unity Project and how to open it onto another PC (creating a New Unity project and importing the assets and stuff back in). Also learned how to zip a Unity file, understood which files were necessary to recreate the project onto another computer as well as what folders were not needed (e.g. Library folder) and would appear when I opened the zipped Unity Project onto the new computer e.g. Library folder etc...
